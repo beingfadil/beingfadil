@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @MUHAMMED FADIL MP
-- 👀 I’m interested in .. python,web designing,taking photos and videos,editing etc
-- 🌱 I’m currently learning ...btech in cse from mesce kuttipuram
-- 💞️ I’m looking to collaborate on ...
-- 📫 Let's connect! Feel free to reach out to me on GitHub or on LinkedIn[MUHAMMED FADIL MP].
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+-👋 Hello World! I'm MUHAMMED FADIL MP.a passionate Computer Science and Engineering student exploring the realms of software development and technology.
+
+-🎓 Currently in my third year of studies, I thrive on learning new concepts and applying them to real-world problems.
+
+-💻 My interests span a wide range of topics including machine learning, web development, cybersecurity, and cloud computing.
+
+-🌱 Always eager to expand my knowledge, I enjoy diving into open-source projects and experimenting with cutting-edge technologies.
+
+-🔧 Proficient in languages like Java, Python, and C++ etc
+
+-🚀 Let's connect, collaborate, and innovate! Reach out to me on [LinkedIn](https://www.linkedin.com/in/MUHAMMEDFADILMP) and let's build something awesome together!
 
 <!---
 beingfadil/beingfadil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
