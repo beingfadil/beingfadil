@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammedfadil
 - 👀 I’m interested in .. python,web designing,taking photos and videos,editing etc
-- 🌱 I’m currently learning ...btech in cse
+- 🌱 I’m currently learning ...btech in cse from mesce kuttipuram
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...linkedin id: muhammed fadil mp
 - 😄 Pronouns: ...
