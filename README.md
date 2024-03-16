@@ -9,7 +9,7 @@
 
 -🔧 Proficient in languages like Java, Python, and C++ etc
 
--🚀 Let's connect, collaborate, and innovate! Reach out to me on [LinkedIn](https://www.linkedin.com/in/MUHAMMEDFADILMP) and let's build something awesome together!
+-🚀 Let's connect, collaborate, and innovate! Reach out to me on [LinkedIn](https://www.linkedin.com/in/muhammed-fadil-mp-17b595160?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)and let's build something awesome together!
 
 <!---
 beingfadil/beingfadil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
